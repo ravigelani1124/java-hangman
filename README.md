@@ -13,3 +13,4 @@ The following repository lets you practice basic java coding techniques, GUI des
   Ask the user to give you a new word, then add that word to your file hangman.txt.
 
   Have minimum 10 words of your choice in the file hangman.txt
+
